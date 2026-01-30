@@ -123,8 +123,9 @@ cp .env.example .env
 ```
 .
 ├── [folder]/           # Description
-├── [folder]/           # Description
+├── src/                # Source code files
 ├── tests/              # Test files
+├── docs/               # Documentation files
 └── README.md
 ```
 
@@ -150,21 +151,6 @@ Use clear, descriptive commit messages:
 - `Add user authentication endpoint`
 - `Fix database connection timeout issue`
 - `Update README with setup instructions`
-
----
-
-## Known Issues
-
-- [ ] Issue 1 - brief description
-- [ ] Issue 2 - brief description
-
----
-
-## Future Enhancements
-
-- [ ] Enhancement 1
-- [ ] Enhancement 2
-- [ ] Enhancement 3
 
 ---
 
